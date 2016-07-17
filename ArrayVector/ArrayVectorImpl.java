@@ -1,5 +1,3 @@
-package ru.ncedu.java.tasks;
-
 import java.lang.reflect.Array;
 
 public class ArrayVectorImpl implements ArrayVector{
